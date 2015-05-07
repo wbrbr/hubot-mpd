@@ -1,0 +1,20 @@
+{
+  "name": "hubot-mpd",
+  "version": "1.0.0",
+  "description": "Run MPD commands from Hubot",
+  "main": "lib/mpd.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "nounoursheureux/hubot-mpd",
+  "keywords": [
+    "mpd",
+    "hubot"
+  ],
+  "author": "Nounours Heureux <schtroumps31@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nounoursheureux/hubot-mpd/issues"
+  },
+  "homepage": "https://github.com/nounoursheureux/hubot-mpd#readme"
+}
